@@ -9,7 +9,7 @@ node('master')
 
              { 
 
-                  git 'https://github.com/mythribhay/parking_backend.git' 
+                  git 'https://github.com/Chowdeswar777/Parking_app.git' 
 
               } 
 
